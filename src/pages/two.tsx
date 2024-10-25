@@ -9,7 +9,7 @@ export default function ProblemsPage() {
         <p className="text-center mt-5">The main reason it took a bit longer to solve was because I had to add l &lt; r on each while loop to make it stop from going out of range </p>
 
       <div className="flex justify-center mt-20">
-        <a href="https://leetcode.com/problems/count-special-quadruplets/description/?envType=problem-list-v2&envId=hash-table" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-rose-400 to-red-500 rounded-lg shadow-md p-2 text-white">
+        <a href="https://leetcode.com/problems/reverse-only-letters/description/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-rose-400 to-red-500 rounded-lg shadow-md p-2 text-white">
           Go to Question
         </a>
       <button className="bg-gradient-to-r from-fuchsia-600 to-purple-600 rounded-lg shadow-md p-2 text-white ml-4" onClick={() => window.location.href='/problems'}>
