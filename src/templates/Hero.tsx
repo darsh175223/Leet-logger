@@ -15,6 +15,9 @@ const Hero = () => (
           <Link href="https://github.com/darsh175223">
             GitHub
           </Link>
+        <Link href="/tips" className="ml-4">
+          <Button size="sm" className="px-4 py-2">Explore Coding Tips</Button>
+        </Link>
         </li>
        
       </NavbarTwoColumns>
