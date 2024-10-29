@@ -17,6 +17,12 @@ export default function ProblemsPage() {
         <button className="bg-gradient-to-r from-rose-400 to-red-500 rounded-lg shadow-md p-2 text-white" onClick={() => window.location.href='/four'}>
           2530
         </button>
+        <button className="bg-gradient-to-r from-rose-400 to-red-500 rounded-lg shadow-md p-2 text-white" onClick={() => window.location.href='/five'}>
+          921
+        </button>
+        <button className="bg-gradient-to-r from-rose-400 to-red-500 rounded-lg shadow-md p-2 text-white" onClick={() => window.location.href='/six'}>
+          2938
+        </button>
       </div>
 
 
