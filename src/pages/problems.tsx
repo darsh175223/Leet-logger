@@ -23,6 +23,9 @@ export default function ProblemsPage() {
         <button className="bg-gradient-to-r from-rose-400 to-red-500 rounded-lg shadow-md p-2 text-white" onClick={() => window.location.href='/six'}>
           2938
         </button>
+        <button className="bg-gradient-to-r from-rose-400 to-red-500 rounded-lg shadow-md p-2 text-white" onClick={() => window.location.href='/seven'}>
+          290
+        </button>
       </div>
 
 
