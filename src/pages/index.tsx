@@ -14,6 +14,7 @@ const Index = () => (
     <Link href="/six">Go to Problems Page</Link>
     <Link href="/seven">Go to Problems Page</Link>
     <Link href="/eight">Go to Problems Page</Link>
+    <Link href="/nine">Go to Problems Page</Link>
 
   </Base>
 );
