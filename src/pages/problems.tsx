@@ -38,6 +38,14 @@ export default function ProblemsPage() {
         <button className="bg-gradient-to-r from-rose-400 to-red-500 rounded-lg shadow-md p-2 text-white" onClick={() => window.location.href='/eleven'}>
           560
         </button>
+        <button className="bg-gradient-to-r from-rose-400 to-red-500 rounded-lg shadow-md p-2 text-white" onClick={() => window.location.href='/twelve'}>
+          729
+        </button>
+
+        <button className="bg-gradient-to-r from-rose-400 to-red-500 rounded-lg shadow-md p-2 text-white" onClick={() => window.location.href='/thirteen'}>
+          731
+        </button>
+
 
         
         
